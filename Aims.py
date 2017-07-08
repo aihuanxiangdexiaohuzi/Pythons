@@ -16,8 +16,9 @@ msg = '''
 
 要努力 哦 ！加油 加油 Go Go Go ！！！
 '''
-print(msg)
+if __name__ == '__main__':
+    print(msg)
 
-os.system('pause')
+    os.system('pause')
 
 
