@@ -1,4 +1,9 @@
-#mkdir_folder for every day 
+#!/usr/bin/env python3
+# -*- conding:utf-8 -*-
+
+'mkdir_folder for every day '
+
+__author__ = 'Moustache'
 
 import time,os
 
