@@ -9,6 +9,10 @@ import time,os
 
 basename= str(input('please input your name:'))
 
+underline = '_'
+chinese = 'chinese'
+english = 'english'
+
 #default
 if not basename.strip():
     basename= 'hlt'
@@ -24,15 +28,20 @@ yearPath = basePath + thisYear
 monthPath = yearPath + '\\' + thisMonth
 
 #dayPath = basePath + thisYear + '\\' +thisMonth + '\\' + basename+thisDay
-dayPath = monthPath + '\\' + basename+thisDay
+dayPath = monthPath + '\\' + basename + underline+ thisDay + underline + chinese
+englishPath = monthPath + '\\' + basename +underline + thisDay + underline + english
 
 def mkdir_folder():
+    if not os.path.exists(basePath):
+        os.mkdir(basePath)
     if not os.path.exists(yearPath):    
         os.mkdir(yearPath)
     if not os.path.exists(monthPath):
         os.mkdir(monthPath)
     if not os.path.exists(dayPath):
         os.mkdir(dayPath)
+    if not os.path.exists(englishPath):
+        os.mkdir(englishPath)
         
     #open the folder   
     os.popen("explorer.exe" + " " + dayPath)
