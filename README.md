@@ -7,20 +7,21 @@
 
 [MIT](https://mit-license.org/)
 
-## **[Download](https://github.com/aihuanxiangdexiaohuzi/Pythons/archive/master.zip)**
+## **[Download](https://github.com/aihuanxiangdexiaohuzi/Pythons/archive/master.zip)**  
 
-###mkdir_floder使用说明  
+
+### mkdir_floder使用说明  
 
 - 有能力完全可以根据自己需求更改
 - 修改默认用户名和默认存储路径
-- 如果不想回显可以注释一下两行
-'''python
+- 如果不想回显可以注释以下两行
+```python
 os.popen("explorer.exe" + " " + monthPath)
 os.popen("exit") 
-'''
+```
 
 
-> I love Python ！  The The Hope a lot  of  exchange learning...
+> *I love Python ！  The The Hope a lot  of  exchange learning...*
 
 
 
