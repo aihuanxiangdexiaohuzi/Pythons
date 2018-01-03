@@ -1,28 +1,29 @@
-################################
+## Pythons  
 
-Author ： Moustache
-Date   :  2017/07/09
+- python小程序集
+- 自创&不限于收集
 
-################################
+## LICENSE
 
---------------------------------
+[MIT](https://mit-license.org/)
 
-MIT
+## **[Download](https://github.com/aihuanxiangdexiaohuzi/Pythons/archive/master.zip)**
 
-CoCopyright 2017/07/09 Moustache
+###mkdir_floder使用说明  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+- 有能力完全可以根据自己需求更改
+- 修改默认用户名和默认存储路径
+- 如果不想回显可以注释一下两行
+'''python
+os.popen("explorer.exe" + " " + monthPath)
+os.popen("exit") 
+'''
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+> I love Python ！  The The Hope a lot  of  exchange learning...
 
---------------------------------
 
-********************************
 
-I love Python ！  The The Hope a lot  of  exchange learning...
 
-********************************
 
 
