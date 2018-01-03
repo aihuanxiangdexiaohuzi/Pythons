@@ -3,11 +3,12 @@
 - python小程序集
 - 自创&不限于收集
 
-## LICENSE
+## LICENSE  
 
-[MIT](https://mit-license.org/)
+[MIT](https://mit-license.org/)  
 
-## **[Download](https://github.com/aihuanxiangdexiaohuzi/Pythons/archive/master.zip)**  
+
+## **[Download](https://github.com/aihuanxiangdexiaohuzi/Pythons/archive/master.zip)**    
 
 
 ### mkdir_floder使用说明  
@@ -21,7 +22,7 @@ os.popen("exit")
 ```
 
 
-> *I love Python ！  The The Hope a lot  of  exchange learning...*
+> *I love Python ！ I hope a lot  of  exchange and study ...*
 
 
 
